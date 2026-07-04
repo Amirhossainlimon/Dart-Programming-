@@ -1,6 +1,5 @@
-// ===============================
+
 // ABSTRACT CLASS - COMPLETE CODE
-// ===============================
 
 abstract class Animal {
   // Abstract Methods (No Body)
